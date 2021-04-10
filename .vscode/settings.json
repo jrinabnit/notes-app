@@ -1,0 +1,7 @@
+{
+    "editor.fontFamily": "cascadia code",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "normal",
+    "editor.formatOnPaste": true,
+    "editor.minimap.enabled": false
+}
